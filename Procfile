@@ -1,1 +1,1 @@
-eyzalts: node arpelo.js
+worker: node arpelo.js
